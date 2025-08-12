@@ -222,8 +222,9 @@ Upload to GitHub Pages for free hosting.
 </html>
 ```
 ## OUTPUT
-<img width="1892" height="955" alt="image" src="https://github.com/user-attachments/assets/e9d533d5-9ef7-455a-8c5b-2e4cfb61ec50" />
-<img width="1892" height="955" alt="Screenshot 2025-08-12 213201" src="https://github.com/user-attachments/assets/3ab11fdb-7e41-45c3-904e-c28c67572802" />
+<img width="1893" height="961" alt="Screenshot 2025-08-12 213140" src="https://github.com/user-attachments/assets/63b79505-5a3f-48ca-9372-b45b09322c1e" />
+<img width="1892" height="955" alt="Screenshot 2025-08-12 213201" src="https://github.com/user-attachments/assets/b107aa79-537f-49e8-88a6-e982ee5f1c30" />
+
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
